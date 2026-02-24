@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MohsenHamidi8/MohsenHamidi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm YourName  
+### Android & Flutter Developer 🚀  
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About Me
+- 🎓 Computer Engineering Student  
+- 📱 Android (Kotlin) & Flutter Developer  
+- 🔥 Interested in Clean Architecture & Jetpack Compose  
+- 🌱 Currently learning Advanced Android  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,java,git,github,linux" />
+</p>
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|-------|------------|------|
+| 📱 MyApp | Android app with MVVM | Kotlin |
+| 🎨 UI Kit | Modern UI Components | Jetpack Compose |
+| 🚀 Flutter App | Cross-platform app | Flutter |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/YourUsername">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
